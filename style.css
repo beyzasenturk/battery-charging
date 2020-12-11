@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 100%;
+  text-align: center;
+}
+.fa {
+  font-size: 150px;
+  transform: rotate(-90deg);
+  margin-top: 250px;
+}
